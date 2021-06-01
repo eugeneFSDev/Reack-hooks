@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACI,wBAA2B,CAC3B,gBAAiB,CACjB,yCACJ","file":"main.c64a2158.chunk.css","sourcesContent":["body {\n    background-color: lightblue;\n    min-height: 100vh;\n    font-family: 'Times New Roman', Times, serif;\n}\n"]}
